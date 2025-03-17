@@ -16,7 +16,8 @@
     "react-dom": "^18.2.0",
     "better-sqlite3": "^9.2.2",
     "drizzle-orm": "^0.29.1",
-    "next-auth": "^4.24.6"
+    "next-auth": "^4.24.6",
+    "bcryptjs": "^2.4.3"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.8",
